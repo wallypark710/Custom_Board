@@ -1,0 +1,18 @@
+.js-clock{
+	text-align: center;
+	font-size:100px;
+	font-family: serif;
+}
+
+.js-user,h4{
+	text-align: center;
+}
+
+.js-greeing,
+.js-user {
+	display: none;
+}
+
+.showing{
+	display: block;
+}
