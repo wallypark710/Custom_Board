@@ -8,6 +8,7 @@
 .js-user,h4{
 	color : white;
 	text-align: center;
+	cursor: pointer;
 }
 
 .js-greeing,
