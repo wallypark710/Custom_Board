@@ -23,7 +23,7 @@ function handleSubmit(event){
 }
 
 function askUser(){
-	form.classList.add(SHOW);
+	form.classList.add(x);
 	form.addEventListener('submit', handleSubmit);
 }
 
